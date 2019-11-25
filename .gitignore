@@ -1,2 +1,7 @@
 /.idea/
+/bin/
+
+
+.classpath
 test_git.iml
+.project
